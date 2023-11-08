@@ -1,0 +1,4 @@
+images:
+
+https://github.com/sdasrc/editorial-website-extended/blob/master/assets/images/banner-w1600.jpg
+
